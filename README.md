@@ -136,7 +136,7 @@ Look for id: -1001118554477 is your chat id (with the negative sign).
 
 ### Log messages to Telegram
 
-For example setup, check `conf.json.dist file`, log.telegram section , set chatId, token, level (default is info). Check more options https://github.com/ivanmarban/winston-telegram#readme
+For example setup, check `conf.json.dist file`, log.telegram section , set chatId, token, level (default is info).
 
 ## Webserver
 
